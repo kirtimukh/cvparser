@@ -1,0 +1,20 @@
+{
+    "filepath": "<resume filepath>",
+    "result": {
+        "EB": {
+            "score": "<score>"
+        },
+        "SA": {
+            "score": "<score>"
+        },
+        "LP": {
+            "score": "<score>"
+        },
+        "ALI": {
+            "score": "<score>"
+        },
+        "CAI": {
+            "score": "<score>"
+        }
+    }
+}

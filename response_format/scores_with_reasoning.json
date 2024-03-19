@@ -1,0 +1,30 @@
+{
+    "filepath": "<resume filepath>",
+    "result": {
+        "EB": {
+            "relevant_info": "<relevant available information>",
+            "score": "<score>",
+            "reasoning": "<justification for the given score>"
+        },
+        "SA": {
+            "relevant_info": "<relevant available information>",
+            "score": "<score>",
+            "reasoning": "<justification for the given score>"
+        },
+        "LP": {
+            "relevant_info": "<relevant available information>",
+            "score": "<score>",
+            "reasoning": "<justification for the given score>"
+        },
+        "ALI": {
+            "relevant_info": "<relevant available information>",
+            "score": "<score>",
+            "reasoning": "<justification for the given score>"
+        },
+        "CAI": {
+            "relevant_info": "<relevant available information>",
+            "score": "<score>",
+            "reasoning": "<justification for the given score>"
+        }
+    }
+}

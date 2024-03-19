@@ -1,0 +1,8 @@
+*venv*
+.env
+cvs/
+results.json
+__pycache__/
+test*
+.DS_Store
+.vscode
